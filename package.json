@@ -1,6 +1,6 @@
 {
   "name": "appium-ares",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Command line interface for webOS TV",
   "main": "./build/index.js",
   "types": "./typings/index.d.ts",
@@ -66,7 +66,7 @@
     "eslint-config-appium": "^4.0.0",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-mocha": "^6.3.0",
-    "eslint-plugin-promise": "^4.0.0",
+    "eslint-plugin-promise": "^5.1.0",
     "gulp": "^4.0.0",
     "mocha": "^8.3.2",
     "pre-commit": "^1.1.3",
