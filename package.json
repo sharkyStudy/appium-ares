@@ -1,6 +1,6 @@
 {
   "name": "appium-ares",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Command line interface for webOS TV",
   "main": "./build/index.js",
   "types": "./typings/index.d.ts",
