@@ -62,7 +62,7 @@
     "appium-gulp-plugins": "^5.5.0",
     "appium-test-support": "^1.0.0",
     "babel-eslint": "^10.0.1",
-    "eslint": "^7.23.0",
+    "eslint": "^8.14.0",
     "eslint-config-appium": "^4.0.0",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-mocha": "^6.3.0",
