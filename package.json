@@ -51,7 +51,7 @@
     "shell-quote": "^1.6.1",
     "source-map-support": "^0.5.19",
     "teen_process": "^1.15.0",
-    "uuid": "^8.3.2"
+    "uuid": "^9.0.0"
   },
   "pre-commit": [
     "precommit-msg",
